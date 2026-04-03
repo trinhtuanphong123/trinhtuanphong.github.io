@@ -10,15 +10,17 @@ redirect_from:
 
 # 👋 Giới thiệu
 
-Tôi là **Trịnh Tuấn Phong**, hiện là sinh viên năm 4 ngành **Toán Tin**, chuyên ngành **Dữ liệu** tại Trường Công nghệ Thông tin và Truyền thông - **Đại học Bách khoa Hà Nội (HUST)**.
+Tôi là **Trịnh Tuấn Phong**, hiện là sinh viên năm 4 ngành **Toán Tin**, chuyên ngành **Dữ liệu** tại Khoa Toán Tin - **Đại học Bách khoa Hà Nội (HUST)**.
 
 Tôi có niềm đam mê trong việc kết hợp tư duy toán học hệ thống với các công nghệ dữ liệu hiện đại. Mục tiêu của tôi là ứng dụng các mô hình toán học để giải quyết và mô phỏng các bài toán thực tế trong kỹ thuật và đời sống.
 
 # 🎯 Hướng nghiên cứu & Tìm hiểu
-Hiện tại, tôi đang tập trung phát triển kiến thức trong các lĩnh vực:
-* **Artificial Intelligence (AI) & Data Science (DS):** Xây dựng pipeline xử lý dữ liệu và huấn luyện mô hình học máy.
-* **Hệ động lực học (Dynamical Systems) & PDE:** Nghiên cứu các phương trình đạo hàm riêng và mô hình hóa sự biến đổi của hệ thống.
-* **Mô phỏng (Simulation):** Sử dụng các phương pháp số để tái hiện các hiện tượng vật lý/kỹ thuật trên máy tính.
+======
+* Times Series 
+* Deep Generative Models
+* Model Basel Agent
+* Numerical in PDE
+  
 
 # 🚀 Dự án tiêu biểu
 *(Đây là nơi bạn sẽ khoe các sản phẩm mình từng làm, tôi để sẵn khung cho bạn)*
@@ -29,8 +31,6 @@ Hiện tại, tôi đang tập trung phát triển kiến thức trong các lĩn
 
 # 🆕 Hoạt động gần đây
 * **[04/2026]:** Đang thực hiện đồ án tốt nghiệp chuyên ngành Dữ liệu tại HUST.
-* **[01/2026]:** Nghiên cứu và phân tích dữ liệu về tác động của chất béo đối với sức khỏe tim mạch.
-* **[11/2025]:** Triển khai dự án MLOps sử dụng Docker và Google Cloud Platform.
 
 # 🎓 Học vấn
 * **Đại học Bách khoa Hà Nội (HUST)**
@@ -39,7 +39,7 @@ Hiện tại, tôi đang tập trung phát triển kiến thức trong các lĩn
 
 # 🛠 Kỹ năng Kỹ thuật
 * **Lập trình:** Python (Pandas, Scikit-learn, PyTorch), C++, SQL.
-* **Công cụ:** Docker, Git, LaTeX, Power BI, Google Cloud, AWS.
+* **Công cụ:** Docker, Git, LaTeX, Power BI, AWS.
 * **Toán học:** Giải tích số, Xác suất thống kê, Tối ưu hóa, Lý thuyết đồ thị.
 
 ---
