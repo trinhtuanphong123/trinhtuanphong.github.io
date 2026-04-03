@@ -6,16 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Jian Tang's Homepage"
+locale                   : "vn-VN"
+title                    : "Electron epsilon's Homepage"
 title_separator          : "-"
-name                     : &name "Jian Tang"
-description              : &description "Assitant Professor"
-description              : &description "HEC Montreal"
-description              : &description "Montreal Institute for Learning Alogorithms (MILA)"
-url                      : https://tangjianpku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Trinh Tuan Phong"
+description              : &description "Hanoi University of Science and Technology HUST"
+description              : &description "Applied Mathematics and Informatics | HUST"
+url                      : https://trinhtuanphong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tangjianpku/tangjianpku.github.io"
+repository               : "trinhtuanphong123/trinhtuanphong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,41 +79,38 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Jian Tang"
-  avatar           : "jian.jpg"
-  bio              : |
-    Assistant Professor, <br>
-    HEC Montreal <br>
-    Montreal Institute for Learning Alogorithms (MILA)
-  location         : "Montreal, Canada"
-  employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "tangjianpku"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "tangjianpku"
-  vine             :
-  weibo            : "1741301241/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
-  xing             :
-  youtube          :
-  wikipedia        :
+  name             : "Trinh Tuan Phong"
+  avatar           : "bio-photo.jpg" # Đảm bảo có file ảnh này trong thư mục /images/
+  bio              : "Student at Hanoi University of Science and Technology (HUST). Interested in Data Science and MLOps."
+  location         : "Hanoi, Vietnam"
+  github           : "trinhtuanphong123"
+#   employer         :
+#   googlescholar    : 
+#   email            :
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       :
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   lastfm           :
+#   linkedin         :
+#   orcid            : 
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : 
+#   steam            :
+#   tumblr           :
+#   twitter          : 
+#   vine             :
+#   weibo            : 
+#   xing             :
+#   youtube          :
+#   wikipedia        :
 
 
 # Reading Files
@@ -174,12 +170,12 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -209,23 +205,23 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _publications
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _portfolio
   - scope:
       path: ""
@@ -254,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Ho_Chi_Minh # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
